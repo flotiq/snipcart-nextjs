@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start  -p $PORT",
+    "start": "next start -p $PORT",
     "export": "next export"
   },
   "repository": {
@@ -31,6 +31,7 @@
     "next": "^8.1.0",
     "node-sass": "^4.13.0",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react-dom": "^16.12.0",
+    "webpack": "^4.41.5"
   }
 }
