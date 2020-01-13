@@ -18,6 +18,6 @@ Steps:
 
 > [See the live demo](https://snipcart-nextjs.herokuapp.com/)
 ***
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/likrot/snapicart_flotiq)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/flotiq/snipcart-nextjs)
 
 Enjoy folks!
