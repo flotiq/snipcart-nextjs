@@ -1,0 +1,20 @@
+{
+    "name": "Flotiq Snipcart NextJS Example",
+    "env":{
+      "SNIPCART_NEXTJS_FLOTIQ_BASE_URL":{
+        "description": "Base URL for Flotiq API access, defaults to https://api.flotiq.com",
+        "value": "https://api.flotiq.com"
+      },
+      "FLOTIQ_API_KEY": {
+        "description": "Flotiq API key"
+      },
+      "SNIPCART_API_KEY": {
+        "description": "Snipcart API key"
+      }
+    },
+    "buildpacks": [
+      {
+        "url": "heroku/nodejs"
+      }
+    ]
+  }

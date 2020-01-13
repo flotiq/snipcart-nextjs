@@ -17,5 +17,7 @@ Steps:
 > [Read the full tutorial](https://snipcart.com/blog/next-js-ecommerce-tutorial)
 
 > [See the live demo](https://snipcart-nextjs.herokuapp.com/)
+***
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/likrot/snapicart_flotiq)
 
 Enjoy folks!
