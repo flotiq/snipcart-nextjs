@@ -29,7 +29,7 @@ const Product = (props: IProductProps) => {
           data-item-id={props.product.id}
           data-item-name={props.product.name}
           data-item-price={props.product.price}
-          data-item-url={props.router.pathname}
+          data-item-url="/"
           data-item-image={image}>
           Add to cart
         </button>
