@@ -10,7 +10,7 @@ Steps:
 
 - Set up a Next.js development environment
 - Create new pages & components
-- Fetch data & import components
+- Fetch data from  [Flotiq](https://flotiq.com) & import components
 - Add a shopping cart to a Next.js app
 - Style & deploy the app
 
