@@ -28,12 +28,12 @@ SNIPCART_API_KEY="SNIPCART API KEY"
 
 You will find your Flotiq API_KEY here:
 
-![](http://minio.dev.cdwv.pl:80/hackmd/uploads/upload_795a1586270763461827a11c9a1558ba.png)
+![](static/readme/upload_795a1586270763461827a11c9a1558ba.png)
 
 
 and your Snipcart API_KEY:
 
-![](http://minio.dev.cdwv.pl:80/hackmd/uploads/upload_dc2d25c16bfc1f5ad31243e102e2a621.png)
+![](static/readme/upload_dc2d25c16bfc1f5ad31243e102e2a621.png)
 
 If you configured everything then run:
 
