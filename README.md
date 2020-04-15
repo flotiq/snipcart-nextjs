@@ -6,13 +6,42 @@ The creation of tools such as Next.js that successfully simplified React fronten
 
 Here, I want to explore what Next.js can do for e-commerce.
 
-Steps:
+# README
 
-- Set up a Next.js development environment
-- Create new pages & components
-- Fetch data from  [Flotiq](https://flotiq.com) & import components
-- Add a shopping cart to a Next.js app
-- Style & deploy the app
+Prerequisites:
+
+1. Snipcart account
+2. Flotiq account
+
+Run:
+```
+npm install
+```
+
+Create `.env` file based on `.env.example` and fill out the data:
+
+```
+SNIPCART_NEXTJS_FLOTIQ_BASE_URL="https://api.flotiq.com"
+FLOTIQ_API_KEY="FLOTIQ_API_KEY"
+SNIPCART_API_KEY="SNIPCART API KEY"
+```
+
+You will find your Flotiq API_KEY here:
+
+![](static/readme/upload_795a1586270763461827a11c9a1558ba.png)
+
+
+and your Snipcart API_KEY:
+
+![](static/readme/upload_dc2d25c16bfc1f5ad31243e102e2a621.png)
+
+If you configured everything then run:
+
+```
+npm run dev
+```
+
+Your shop should be accessible at `http://localhost:3000`
 
 > [Read the full tutorial](https://snipcart.com/blog/next-js-ecommerce-tutorial)
 
