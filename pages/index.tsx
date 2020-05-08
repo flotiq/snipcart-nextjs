@@ -40,7 +40,7 @@ const Index = (props: IIndexProps) => {
 Index.getInitialProps = async () => {
   const res = await fetch(process.env.SNIPCART_NEXTJS_FLOTIQ_BASE_URL+'/api/v1/content/product?hydrate=1', {
     headers: {
-      'x-auth-token': process.env.FLOTIQ_API_KEY
+      'x-auth-token': process.env.GATSBY_FLOTIQ_API_KEY
     }
   });
   const data = await res.json();
