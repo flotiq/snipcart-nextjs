@@ -22,7 +22,7 @@ Create `.env` file based on `.env.example` and fill out the data:
 
 ```
 SNIPCART_NEXTJS_FLOTIQ_BASE_URL="https://api.flotiq.com"
-FLOTIQ_API_KEY="FLOTIQ_API_KEY"
+GATSBY_FLOTIQ_API_KEY="GATSBY_FLOTIQ_API_KEY"
 SNIPCART_API_KEY="SNIPCART API KEY"
 ```
 
